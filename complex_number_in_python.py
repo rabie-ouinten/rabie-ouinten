@@ -4,6 +4,9 @@ Created on Fri Oct  2 19:53:47 2026
 
 @author: rabie
 """
+# =============================================================================
+# Complex Number: Modulus and Argument Calculation in Python
+# =============================================================================
 from math import sqrt,atan,degrees
 # =============================================================================
 # définition de la fonction
